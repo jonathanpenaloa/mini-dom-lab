@@ -1,0 +1,15 @@
+body {
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    background-color: antiquewhite;
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+}
+
