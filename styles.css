@@ -1,8 +1,7 @@
 body {
     background-color: azure;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
     flex-direction: column;
 }
 
@@ -13,3 +12,9 @@ button {
     height: 40px;
 }
 
+main {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    grid-gap: 20px;
+}
